@@ -3,7 +3,7 @@ LTS 버전인 Java8, 11, 17, 21을 기준으로 작성
 # Java8
 
 - [Lambda Expression](Lambda%20표현식.md) (람다 표현식)
-- Stream API
+- [Stream API](Java%20Stream.md)
 - Optional class
 - 함수형 인터페이스 @FunctionalInterface 예: Predicate, Function, Supplier, Consumer, BiFunction 등
 - java.time 패키지 (LocalDate, LocalTime, ...)
